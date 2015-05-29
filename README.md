@@ -3,7 +3,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/segundofdez/normalize.less.svg?style=flat-square)](https://github.com/segundofdez/reticulas-cssframework/tags)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Modularized famous [Normalize.css][3] using [less][1].
+Modularized famous [normalize.css][3] using [less][1].
 
 
 ## Install

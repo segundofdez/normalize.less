@@ -3,7 +3,7 @@
   "version": "3.0.3",
   "main": "normalize.less",
   "homepage": "http://github.com/segundofdez/normalize.less",
-  "description": "Modularized famous Normalize.css using less",
+  "description": "Modularized famous normalize.css using less",
   "keywords": [
     "less",
     "normalize",

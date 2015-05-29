@@ -1,7 +1,7 @@
 {
   "name": "modularized-normalize-less",
   "version": "3.0.3",
-  "description": "Modularized famous Normalize.css using less",
+  "description": "Modularized famous normalize.css using less",
   "main": "normalize.less",
   "author": "Segundo Fdez (http://segundofdez.com/)",
   "license": "MIT",
