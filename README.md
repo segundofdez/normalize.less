@@ -10,14 +10,16 @@ Modularized famous [Normalize.css][3] using [less][1].
 
 Download the latest stable version of normalize.less or install with [bower][2]:
 ```bash
-bower install modularized-normalize-less
+bower install modularized-normalize-less --save
 ```
+
 
 ## Gulp tasks
 Do you need a custom normalize dist?
 ```bash
 gulp normalize
 ```
+
 
 ## Contributing
 
@@ -36,7 +38,7 @@ Please see [CONTRIBUTING](https://github.com/segundofdez/normalize.less/blob/dev
 - <https://twitter.com/segundo_fdez>
 
 **Contributors**
-- <https://github.com/segundofdez/reticulas-cssframework/graphs/contributors>
+- <https://github.com/segundofdez/normalize.less/graphs/contributors>
 
 
 ## License

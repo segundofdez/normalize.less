@@ -6,7 +6,8 @@
   "description": "Modularized famous Normalize.css using less",
   "keywords": [
     "less",
-    "normalize"
+    "normalize",
+    "gulp"
   ],
   "license": "MIT",
   "ignore": [

@@ -2,11 +2,9 @@
   "name": "modularized-normalize-less",
   "version": "3.0.3",
   "description": "Modularized famous Normalize.css using less",
-  "author": "Segundo Fdez (http://segundofdez.com/)",
   "main": "normalize.less",
-  "scripts": {
-  "test": "gulp test"
-  },
+  "author": "Segundo Fdez (http://segundofdez.com/)",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/segundofdez/normalize.less"
@@ -16,7 +14,6 @@
     "normalize",
     "gulp"
   ],
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/segundofdez/normalize.less/issues"
   },

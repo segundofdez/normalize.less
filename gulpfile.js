@@ -9,7 +9,6 @@ function swallowError (error) {
     this.emit('end');
 }
 
-
 /**
 * Task custom normalize
 */
