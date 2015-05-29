@@ -15,7 +15,7 @@ bower install modularized-normalize-less --save
 
 
 ## Gulp tasks
-Do you need a custom normalize dist?
+Maybe for some reason you need a custom normalize dist (be careful doing this). Go to normalize.less, comment unnecessary modules an run:
 ```bash
 gulp normalize
 ```
