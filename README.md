@@ -23,12 +23,12 @@ gulp normalize
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/segundofdez/normalize.less/blob/dev/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/segundofdez/normalize.less/blob/master/CONTRIBUTING.md) for details.
 
 
 ## Creators
 
-**Normalize.less it's based on the work of:  Nicolas Gallagher and co-creater Jonathan Neal.**
+**Normalize.less it's based on the work of:  Nicolas Gallagher and co-creator Jonathan Neal.**
 
 - <https://github.com/necolas/normalize.css/>
 
