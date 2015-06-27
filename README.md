@@ -3,7 +3,8 @@
 [![GitHub tag](https://img.shields.io/github/tag/segundofdez/normalize.less.svg?style=flat-square)](https://github.com/segundofdez/reticulas-cssframework/tags)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Modularized famous [normalize.css][3] using [less][1].
+Modularized famous [normalize.css][3] using [less][1]. 
+The idea comes from [here][4].
 
 
 ## Install
@@ -47,3 +48,4 @@ Code and documentation Copyright (c) 2015 Segundo Fdez (http://segundofdez.com) 
 [1]:http://lesscss.org/
 [2]:http://bower.io/
 [3]:https://github.com/necolas/normalize.css/
+[4]:https://github.com/necolas/normalize.css/issues/222
