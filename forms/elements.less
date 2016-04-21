@@ -1,10 +1,12 @@
 /**
- * Change font properties to `inherit` in all browsers (opinionated).
+ * 1. Change font properties to `inherit` in all browsers (opinionated).
+ * 2. Remove the margin in Firefox and Safari.
  */
 
 button,
 input,
 select,
 textarea {
-	font: inherit;
+  font: inherit; /* 1 */
+  margin: 0; /* 2 */
 }
