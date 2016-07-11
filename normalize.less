@@ -1,33 +1,34 @@
-/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v4.2.0 | MIT License | github.com/necolas/normalize.css */
 
 @import 'base/html.less';
-@import 'base/body.less';
 
 
-/* HTML5 display definitions
+/* Sections
    ========================================================================== */
 
-@import 'html5/block.less';
-@import 'html5/inline-block.less';
-@import 'html5/audio.less';
-@import 'html5/progress.less';
-@import 'html5/hidden.less';
+@import 'sections/body.less';
+@import 'sections/block.less';
+@import 'sections/h1.less';
 
 
-/* Links
+/* Grouping content
    ========================================================================== */
 
-@import 'links/background-color.less';
-@import 'links/outline.less';
+@import 'grouping/block.less';
+@import 'grouping/figure.less';
+@import 'grouping/hr.less';
+@import 'grouping/monospace.less';
 
 
 /* Text-level semantics
    ========================================================================== */
 
+@import 'text-level/links.less';
+@import 'text-level/outline.less';
 @import 'text-level/abbr.less';
 @import 'text-level/bolder.less';
+@import 'text-level/code.less';
 @import 'text-level/dfn.less';
-@import 'text-level/header.less';
 @import 'text-level/mark.less';
 @import 'text-level/small.less';
 @import 'text-level/sub-sup.less';
@@ -36,16 +37,10 @@
 /* Embedded content
    ========================================================================== */
 
+@import 'embedded/inline-block.less';
+@import 'embedded/audio.less';
 @import 'embedded/img.less';
 @import 'embedded/svg.less';
-
-
-/* Grouping content
-   ========================================================================== */
-
-@import 'grouping/monospace.less';
-@import 'grouping/figure.less';
-@import 'grouping/hr.less';
 
 
 /* Forms
@@ -56,9 +51,29 @@
 @import 'forms/buttons.less';
 @import 'forms/fieldset.less';
 @import 'forms/legend.less';
+@import 'forms/progress.less';
 @import 'forms/textarea.less';
 @import 'forms/checkbox-radio.less';
 @import 'forms/number.less';
 @import 'forms/search.less';
-@import 'forms/placeholder.less';
 @import 'forms/upload.less';
+
+
+/* Interactive
+   ========================================================================== */
+
+@import 'interactive/block.less';
+@import 'interactive/summary.less';
+
+
+/* Scripting
+   ========================================================================== */
+
+@import 'scripting/canvas.less';
+@import 'scripting/template.less';
+
+
+/* Hidden
+   ========================================================================== */
+
+@import 'hidden/hidden.less';
