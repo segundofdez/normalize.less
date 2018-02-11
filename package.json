@@ -1,6 +1,6 @@
 {
   "name": "modularized-normalize-less",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "description": "Modularized famous normalize.css using less",
   "main": "normalize.less",
   "author": "Segundo Fdez (http://segundofdez.com/)",
