@@ -1,6 +1,6 @@
 {
   "name": "modularized-normalize-less",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "main": "normalize.less",
   "homepage": "http://github.com/segundofdez/normalize.less",
   "description": "Modularized famous normalize.css using less",

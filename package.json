@@ -1,6 +1,6 @@
 {
   "name": "modularized-normalize-less",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Modularized famous normalize.css using less",
   "main": "normalize.less",
   "author": "Segundo Fdez (http://segundofdez.com/)",
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/segundofdez/normalize.less",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-less": "^3.0.5"
+    "gulp": "^4.0.0",
+    "gulp-less": "^4.0.1"
   }
 }
