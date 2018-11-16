@@ -13,7 +13,9 @@ Download the latest stable version of normalize.less or install with [bower][2]:
 ```bash
 bower install modularized-normalize-less --save
 ```
-
+```bash
+npm i modularized-normalize-less --save-dev
+```
 
 ## Gulp tasks
 Maybe for some reason you need a custom normalize dist (be careful doing this). Go to normalize.less, comment unnecessary modules an run:
